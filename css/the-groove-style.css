@@ -508,6 +508,59 @@ nav.groove-header .nav-open{
 }
 
 
+.header2{
+	width: 100%;
+	border-top:8px solid #a7c440;
+	border-bottom: 1px solid #ccc;
+}
+	.header2 img{
+		max-width: 100%;
+		width: 250px;
+		margin: 0 auto;
+	}
+	.header2 a{
+		display: block;
+		text-align: center;
+	}
+
+.whats-new{
+	padding-top: 40px !important;
+}
+.whats-new .col-sm-4{
+	margin-bottom: 24px
+}
+
+.boxes{
+	border:1px solid #ddd;
+	box-shadow: 0 0 1px rgba(0,0,0,.15);
+}
+.boxes .post-title{
+	color: #27a176;
+}
+.pl24{
+	padding-left: 24px;
+}
+.pr24{
+	padding-right: 24px;
+}
+
+
+.latest-post img{
+	width: 25%;
+	padding-right: 5%;
+	float: left;
+	margin-top: 7px;
+}
+.latest-post .description{
+	float: left;
+    width: auto;
+    line-height: 24px;
+    width: 70%;
+    margin-bottom: 8px;
+}
+#content-wrap1,#content-wrap2{
+   	display: none;
+   }
 
 /**MEDIA QUERIES**/
 
@@ -551,8 +604,13 @@ nav.groove-header .nav-open{
 	.amenities-carousel .customNavigation a{
 		top: 45%;
 	}
+	.whats-new .col-md-3 .widget{
+		padding: 0 15px;
+	}
 
 }
+
+
 @media (min-width: 1200px) {
 	.priceWrap .col-md-3{
 		padding: 8px 0;
