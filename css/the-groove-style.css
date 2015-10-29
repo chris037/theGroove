@@ -196,7 +196,7 @@ nav.groove-header .nav-open{
 .fadingForm{
 	background: #edf4e3;
 	position: fixed;
-	z-index: 9999;
+	z-index: 10000;
 	right: 0;
 	width: 33.33333333%;
 	bottom: 10%;
