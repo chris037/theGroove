@@ -1,7 +1,5 @@
-$(window).load(function() {
-     
-
- 	  var currentTallest = 0,
+ $(document).ready(function(){
+var currentTallest = 0,
      currentRowStart = 0,
      rowDivs = new Array(),
      $el,
@@ -39,42 +37,4 @@ $(window).load(function() {
        }
        
      })
-
-
-
-    $("#calculatorBtn").click(function () {
-        $('.calcu-wrapper').fadeIn();
-        return false;
-    });
-    $(".close-calcu").click(function () {
-        $('.calcu-wrapper').fadeOut();
-        return false;
-    });
-
-	  $(".InquireBtn").click(function () {
-        $('.fadingForm').fadeIn();
-        return false;
-    });
-     $(".formClose").click(function () {
-        $('.fadingForm').fadeOut();
-        return false;
-    });
-    $("#colsultantBtn").click(function () {
-        $('#colsultantModal').fadeIn();
-        return false;
-    });
-    $(".close-top").click(function () {
-        $('#colsultantModal').fadeOut();
-        return false;
-    });
-
-
-    
- 
-
-    
-   
 });
-
-
-

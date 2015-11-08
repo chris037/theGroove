@@ -1,0 +1,252 @@
+<?php include 'header.php'; ?>
+        
+        <div class="main-container">
+            <section class="cover fullscreen theGrooveSlider image-slider slider-arrow-controls controls-inside">
+                <ul class="slides">                  
+                    <li class="image-bg pt-xs-240 pb-xs-240">
+                        <div class="background-image-holder">
+                            <img alt="image" class="background-image" src="img/banner-1.jpg" />
+                        </div>
+                        <div class="banner-logo">
+                            <img src="img/theGrooveRockwell.png">
+                        </div>
+                        <div class="align-bottom">
+                            
+                            <div class="row">
+                                <div class="col-md-12 priceWrap">
+                                    <hr class="mb0">
+                                    
+                                        <div class="col-md-3 col-sm-6">
+                                            <p><span>PROPERTY TYPE:</span> CONDOMINIUM </p>
+                                        </div>
+                                        <div class="col-md-3 col-sm-6">
+                                            <p><span>PRICE RANGE:</span> PHP 5,000,000 - PHP 50,000,000 </p>
+                                        </div>
+                                        <div class="col-md-3 col-sm-6">
+                                            <p><span>LOCATION:</span> PASIG </p>
+                                        </div>
+                                        <div class="col-md-3 col-sm-6">
+                                            <p><span>UNIT SIZE:</span> 22-55 SQM </p>
+                                        </div>    
+                                   
+                                    <hr class="mb24">
+                                </div>
+                            </div>
+                            <!--end of row-->
+                        </div>
+                        <!--end of container-->
+                    </li>
+                    <li class="image-bg pt-xs-240 pb-xs-240">
+                        <div class="background-image-holder">
+                            <img alt="image" class="background-image" src="img/banner-1.jpg" />
+                        </div>
+                        <div class="banner-logo">
+                            <img src="img/theGrooveRockwell.png">
+                        </div>
+                        <div class="align-bottom">
+                            
+                            <div class="row">
+                                <div class="col-md-12 priceWrap">
+                                    <hr class="mb0">
+                                    
+                                        <div class="col-md-3 col-sm-6">
+                                            <p><span>PROPERTY TYPE:</span> CONDOMINIUM </p>
+                                        </div>
+                                        <div class="col-md-3 col-sm-6">
+                                            <p><span>PRICE RANGE:</span> PHP 5,000,000 - PHP 50,000,000 </p>
+                                        </div>
+                                        <div class="col-md-3 col-sm-6">
+                                            <p><span>LOCATION:</span> PASIG </p>
+                                        </div>
+                                        <div class="col-md-3 col-sm-6">
+                                            <p><span>UNIT SIZE:</span> 22-55 SQM </p>
+                                        </div>    
+                                   
+                                    <hr class="mb24">
+                                </div>
+                            </div>
+                            <!--end of row-->
+                        </div>
+                        <!--end of container-->
+                    </li> 
+            </section>  
+
+
+            <section class="pageContainer">
+
+                <div class="buzz">
+                    <div id="wrap">
+                         <div class="col-md-4 col-sm-6">
+                            <div class="tweet feature-3">
+                                <div class="left text-center">
+                                    <i class="ti-twitter-alt"></i>
+                                </div>
+                                <div class="right">
+                                    <h5 class="mb0">@loremipsum</h5>
+                                    <p class="mb0">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="tweet feature-3">
+                                <div class="left text-center">
+                                    <i class="ti-twitter-alt"></i>
+                                </div>
+                                <div class="right">
+                                    <h5 class="mb0">@loremipsum</h5>
+                                    <p class="mb0">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="intapost feature-3" style="background:url(img/intagramBg.jpg) center no-repeat;">
+                                <div class="left text-center">
+                                    <i class="ti-instagram"></i>
+                                </div>
+                                <div class="right">
+                                    <h5 class="mb0">@loremipsum</h5>
+                                    <p class="mb0">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="tweet feature-3">
+                                <div class="left text-center">
+                                    <i class="ti-twitter-alt"></i>
+                                </div>
+                                <div class="right">
+                                    <h5 class="mb0">@loremipsum</h5>
+                                    <p class="mb0">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="tweet feature-3">
+                                <div class="left text-center">
+                                    <i class="ti-twitter-alt"></i>
+                                </div>
+                                <div class="right">
+                                    <h5 class="mb0">@loremipsum</h5>
+                                    <p class="mb0">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                                    </p>
+                                </div>
+                            </div> 
+                        </div>
+
+                        <div class="col-md-4 col-sm-6">
+                            <div class="intapost feature-3" style="background:url(img/intagramBg.jpg) center no-repeat;">
+                                <div class="left text-center">
+                                    <i class="ti-instagram"></i>
+                                </div>
+                                <div class="right">
+                                    <h5 class="mb0">@loremipsum</h5>
+                                    <p class="mb0">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="tweet feature-3">
+                                <div class="left text-center">
+                                    <i class="ti-twitter-alt"></i>
+                                </div>
+                                <div class="right">
+                                    <h5 class="mb0">@loremipsum</h5>
+                                    <p class="mb0">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                                    </p>
+                                </div>
+                            </div> 
+                            <div class="tweet feature-3">
+                                <div class="left text-center">
+                                    <i class="ti-twitter-alt"></i>
+                                </div>
+                                <div class="right">
+                                    <h5 class="mb0">@loremipsum</h5>
+                                    <p class="mb0">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                                    </p>
+                                </div>
+                            </div> 
+                            <div class="tweet feature-3">
+                                <div class="left text-center">
+                                    <i class="ti-twitter-alt"></i>
+                                </div>
+                                <div class="right">
+                                    <h5 class="mb0">@loremipsum</h5>
+                                    <p class="mb0">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                                    </p>
+                                </div>
+                            </div>
+                            <div class="tweet feature-3">
+                                <div class="left text-center">
+                                    <i class="ti-twitter-alt"></i>
+                                </div>
+                                <div class="right">
+                                    <h5 class="mb0">@loremipsum</h5>
+                                    <p class="mb0">
+                                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+                                    </p>
+                                </div>
+                            </div>  
+                        </div>
+
+                        <div class="col-md-4 col-sm-12">
+                            <div class="aggregate">
+                                 <p class="mb0">
+                                        Content here
+                                 </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="read-more"></div>
+                    <div class="clearfix"></div>
+                </div>
+
+                <section class="content-box-wrapper pt0 pb0">
+                        <div class="col-md-8 col-sm-6 col-xs-12 text-left content-box">
+                            <div class="pt24 pb24">
+                                <div class="col-md-12">
+                                    <h4 class="uppercase mb8 bold">ROCKWELL BUZZ</h4>
+                                    <p class="pb0 mb0">The Grove by Rockwell has definitely changed the traditional concept of city living - giving a home in a tranquil sanctuary amidst the everyday hustle. The luxurious and exquisite living Rockwell guarantees its residents will definitely be something to look forward to. For more unit options, contact us.</p>
+                                </div>
+                                <div class="clearfix"></div>
+                            </div>
+                            
+                        </div>
+                        <div class="col-md-4 col-sm-6 col-xs-12 text-center content-box">
+                            <div class="pt24 pb32">
+                                    <h4 class="uppercase bold mb8">
+                                        INQUIRE NOW
+                                    </h4>
+                                <p>Contact us today and we'll get back to you as soon as possible!</p>
+                            </div>
+                        </div>
+                </section>
+            </section>
+        </div>
+            
+<?php include 'footer.php'; ?> 
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('.buzz').readmore({
+            speed: 100,
+            collapsedHeight: 400,
+            heightMargin: 16,
+            moreLink: '<a class="slideBtn" href="#">Read More</a>',
+            lessLink: '<a class="slideBtn" href="#">Close</a>',
+            embedCSS: true,
+            blockCSS: 'display: block; width: 100%;',
+            startOpen: false,
+
+            // callbacks
+            beforeToggle: function(){},
+            afterToggle: function(){}
+        });
+    });
+</script>
+        
+</body>
+</html>
